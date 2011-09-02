@@ -1,26 +1,30 @@
-### This is the [Sublime Text 2][] editor bundle for [MiniTest][], the default testing framework of Ruby language.
+About
+=======
+This is the [Sublime Text 2][] editor bundle for [MiniTest][], the default testing framework of Ruby language.
 
 This contains two main snippets categories:
 
 - **Expectations (Specs)**: Snippets for all the expecations expressions (43 by now)
 - **Assertions (Asserts)**: Snippets for all the assertions (33 by now)
 
-INSTALL
+Install
 =======
-- In OS X:
-cd ~/Library/Application Support/Sublime Text 2/Packages
-git clone git://github.com/joaodrp/minitest-sublime-text-2-bundle.git MiniTest
+    # In OS X:
+    cd ~/Library/Application Support/Sublime Text 2/Packages
+    git clone git://github.com/joaodrp/minitest-sublime-text-2-bundle.git MiniTest
 
-- For other OS, or if you dont use git, just grab the download and put the that in a  `MiniTest` folder under your sublime text 2 packages.
+For other OS, or if you dont use git, just grab the download and put the that in a  `MiniTest` folder under your sublime text 2 packages.
 
 TODO
 =======
 * MiniTest Benchmark snippets
 
+If you want to contribute with these or other ideas please fork and make some pull requests ;)
+
 [MiniTest]: https://github.com/seattlerb/minitest
 [Sublime Text 2]: http://www.sublimetext.com/
 
-LICENSE
+License
 =======
 
 (The MIT License)
