@@ -1,0 +1,13 @@
+<snippet>
+   <content><![CDATA[
+before ${1::each} do
+   ${2}
+end
+${3}
+]]></content>
+   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+   <tabTrigger>be</tabTrigger>
+   <!-- Optional: Set a scope to limit where the snippet will trigger -->
+   <scope>source.ruby</scope>
+</snippet>
+:
