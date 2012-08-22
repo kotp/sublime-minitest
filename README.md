@@ -13,6 +13,10 @@ Install
     cd ~/Library/Application Support/Sublime Text 2/Packages
     git clone git://github.com/joaodrp/sublime-minitest.git MiniTest
 
+    # In Linux
+    cd ~/.config/sublime-text-2/Packages/MiniTest/
+    git clone git://github.com/joaodrp/sublime-minitest.git MiniTest
+
 For other OS, or if you dont use git, just grab the download and put the that in a  `MiniTest` folder under your sublime text 2 packages.
 
 TODO
