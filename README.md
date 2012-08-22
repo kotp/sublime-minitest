@@ -11,7 +11,7 @@ Install
 =======
     # In OS X:
     cd ~/Library/Application Support/Sublime Text 2/Packages
-    git clone git://github.com/joaodrp/minitest-sublime-text-2-bundle.git MiniTest
+    git clone git://github.com/joaodrp/sublime-minitest.git MiniTest
 
 For other OS, or if you dont use git, just grab the download and put the that in a  `MiniTest` folder under your sublime text 2 packages.
 
